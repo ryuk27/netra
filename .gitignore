@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Pytest
+.pytest_cache/
+
+# IDE
+.vscode/
+
+# Scan outputs (regenerated per run)
+src/test_*.json
+src/reports/
+src/screenshots/
+src/visualizations/*.png
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temp
+*.tmp
+*.log
+
+# Scan cache (resume files)
+.netra_cache/

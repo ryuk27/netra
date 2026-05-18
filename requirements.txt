@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+matplotlib
+seaborn
+pandas
+dnspython
+selenium
+Pillow
+tqdm
