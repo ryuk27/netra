@@ -3,11 +3,10 @@ Configuration settings for Netra
 """
 
 # API Keys
-SHODAN_API_KEY = "PawIXS84FaZY28CSY23uUbZQghOok4VK"  # Add your Shodan API key here
-VIRUSTOTAL_API_KEY = "086d7179223e5c869d39c60a5d0c3c22e42bf03795c734d73dd0072403c050e2"  # Add your VirusTotal API key here (https://www.virustotal.com/gui/my-apikey)
-ABUSEIPDB_API_KEY = "04e0dabe4fa97eb82926b71a94c352f8b68228588127b2769b9f6fdaabd5a3d75576b2d3dfa47fb4"   # Add your AbuseIPDB API key here (https://www.abuseipdb.com/account)
-OTX_API_KEY = "4619db8ee5ea7724c8c63689b4193160accbc18e65ff8dcf7748b3e770c02b05"       # Add your AlienVault OTX API key here (https://otx.alienvault.com/api)
-# URLhaus and Feodo Tracker: No API key needed (public databases)
+SHODAN_API_KEY = ""  # Add your Shodan API key here
+VIRUSTOTAL_API_KEY = ""  # Add your VirusTotal API key here (https://www.virustotal.com/gui/my-apikey)
+ABUSEIPDB_API_KEY = ""   # Add your AbuseIPDB API key here (https://www.abuseipdb.com/account)
+OTX_API_KEY = ""       # Add your AlienVault OTX API key here (https://otx.alienvault.com/api)
 
 # Request settings
 REQUEST_TIMEOUT = 30
