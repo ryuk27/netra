@@ -143,7 +143,3 @@ python main.py -t target.com -m all --virustotal_api_key YOUR_KEY --abuseipdb_ap
 - **Command not found**: Ensure you are in the `src/` directory
 - **No results found**: Target may be very secure or non-existent
 - **Screenshots empty**: Requires Selenium and Chrome/Chromium installation
-
-## License
-
-MIT License - See LICENSE file for details
